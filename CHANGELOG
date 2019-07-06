@@ -93,3 +93,4 @@
   - Bump default cost to 12 [GH #181 by @bdewater]
   - Remove explicit support for Rubies 1.8 and 1.9
   - Start calibration from the minimum cost supported by the algorithm [GH #206 by @sergey-alekseev]
+  - Deprecate passing the third argument to `BCrypt::Engine.hash_secret` [GH #207 by @sergey-alekseev]
