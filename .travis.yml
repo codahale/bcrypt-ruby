@@ -12,6 +12,9 @@ rvm:
   - 2.7
   - 3.0
   - ruby-head
+  - jruby-9.0
+  - jruby-9.1
+  - jruby-9.2
   - jruby-head
   - rbx-3
   - truffleruby
